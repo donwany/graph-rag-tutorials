@@ -64,15 +64,3 @@ graphrag query \
 --query "How does a company choose between RAG, fine-tuning, and different PEFT approaches?"
 
 ```
-
-
-
-
-
-
-
-
-
-
-
-### Source: https://github.com/ALucek/GraphRAG-Breakdown.git
