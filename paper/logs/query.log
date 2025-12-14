@@ -1,0 +1,1542 @@
+2025-12-13 21:35:51.0823 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:35:52.0118 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:35:52.0366 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:35:52.0586 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:35:52.0723 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:35:52.0981 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:35:53.0304 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:35:53.0478 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:35:53.0607 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:35:53.0878 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:35:54.0030 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:35:54.0216 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:35:54.0379 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:35:54.0737 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:35:55.0201 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:35:55.0532 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:35:55.0730 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:35:55.0945 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:35:56.0095 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:35:56.0215 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:36:13.0157 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:36:13.0305 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:36:13.0461 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:36:13.0849 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:36:14.0941 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:36:15.0129 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:36:15.0318 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:36:15.0454 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:36:15.0669 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:36:15.0859 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:36:16.0061 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:36:16.0205 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:36:16.0334 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:36:16.0453 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:36:16.0699 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:36:16.0858 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:36:17.0046 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:36:17.0465 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:36:17.0600 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:36:17.0721 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:36:25.0258 - ERROR - graphrag.language_model.providers.litellm.services.retry.exponential_retry - ExponentialRetry: Request failed, retrying, retries=1, delay=2.0, max_retries=10, exception=litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14938. Please try again in 4.481s. Visit https://platform.openai.com/account/rate-limits to learn more.
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1003, in async_streaming
+    headers, response = await self.make_openai_chat_completion_request(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/logging_utils.py", line 190, in async_wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 459, in make_openai_chat_completion_request
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 436, in make_openai_chat_completion_request
+    await openai_aclient.chat.completions.with_raw_response.create(
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_legacy_response.py", line 381, in wrapped
+    return cast(LegacyAPIResponse[R], await func(*args, **kwargs))
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/resources/chat/completions/completions.py", line 2678, in create
+    return await self._post(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1794, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1594, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14938. Please try again in 4.481s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 607, in acompletion
+    response = await init_response
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1053, in async_streaming
+    raise OpenAIError(
+litellm.llms.openai.common_utils.OpenAIError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14938. Please try again in 4.481s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/services/retry/exponential_retry.py", line 71, in aretry
+    return await func(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/chat_model.py", line 109, in _base_acompletion
+    return await acompletion(**new_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1643, in wrapper_async
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1489, in wrapper_async
+    result = await original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 626, in acompletion
+    raise exception_type(
+          ^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 2329, in exception_type
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 356, in exception_type
+    raise RateLimitError(
+litellm.exceptions.RateLimitError: litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14938. Please try again in 4.481s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2025-12-13 21:36:25.0289 - ERROR - graphrag.language_model.providers.litellm.services.retry.exponential_retry - ExponentialRetry: Request failed, retrying, retries=1, delay=2.0, max_retries=10, exception=litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 15069. Please try again in 4.52s. Visit https://platform.openai.com/account/rate-limits to learn more.
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1003, in async_streaming
+    headers, response = await self.make_openai_chat_completion_request(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/logging_utils.py", line 190, in async_wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 459, in make_openai_chat_completion_request
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 436, in make_openai_chat_completion_request
+    await openai_aclient.chat.completions.with_raw_response.create(
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_legacy_response.py", line 381, in wrapped
+    return cast(LegacyAPIResponse[R], await func(*args, **kwargs))
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/resources/chat/completions/completions.py", line 2678, in create
+    return await self._post(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1794, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1594, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 15069. Please try again in 4.52s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 607, in acompletion
+    response = await init_response
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1053, in async_streaming
+    raise OpenAIError(
+litellm.llms.openai.common_utils.OpenAIError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 15069. Please try again in 4.52s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/services/retry/exponential_retry.py", line 71, in aretry
+    return await func(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/chat_model.py", line 109, in _base_acompletion
+    return await acompletion(**new_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1643, in wrapper_async
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1489, in wrapper_async
+    result = await original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 626, in acompletion
+    raise exception_type(
+          ^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 2329, in exception_type
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 356, in exception_type
+    raise RateLimitError(
+litellm.exceptions.RateLimitError: litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 15069. Please try again in 4.52s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2025-12-13 21:36:25.0566 - ERROR - graphrag.language_model.providers.litellm.services.retry.exponential_retry - ExponentialRetry: Request failed, retrying, retries=1, delay=2.0, max_retries=10, exception=litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14901. Please try again in 4.47s. Visit https://platform.openai.com/account/rate-limits to learn more.
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1003, in async_streaming
+    headers, response = await self.make_openai_chat_completion_request(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/logging_utils.py", line 190, in async_wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 459, in make_openai_chat_completion_request
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 436, in make_openai_chat_completion_request
+    await openai_aclient.chat.completions.with_raw_response.create(
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_legacy_response.py", line 381, in wrapped
+    return cast(LegacyAPIResponse[R], await func(*args, **kwargs))
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/resources/chat/completions/completions.py", line 2678, in create
+    return await self._post(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1794, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1594, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14901. Please try again in 4.47s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 607, in acompletion
+    response = await init_response
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1053, in async_streaming
+    raise OpenAIError(
+litellm.llms.openai.common_utils.OpenAIError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14901. Please try again in 4.47s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/services/retry/exponential_retry.py", line 71, in aretry
+    return await func(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/chat_model.py", line 109, in _base_acompletion
+    return await acompletion(**new_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1643, in wrapper_async
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1489, in wrapper_async
+    result = await original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 626, in acompletion
+    raise exception_type(
+          ^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 2329, in exception_type
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 356, in exception_type
+    raise RateLimitError(
+litellm.exceptions.RateLimitError: litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14901. Please try again in 4.47s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2025-12-13 21:36:25.0574 - ERROR - graphrag.language_model.providers.litellm.services.retry.exponential_retry - ExponentialRetry: Request failed, retrying, retries=1, delay=2.0, max_retries=10, exception=litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14792. Please try again in 4.437s. Visit https://platform.openai.com/account/rate-limits to learn more.
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1003, in async_streaming
+    headers, response = await self.make_openai_chat_completion_request(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/logging_utils.py", line 190, in async_wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 459, in make_openai_chat_completion_request
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 436, in make_openai_chat_completion_request
+    await openai_aclient.chat.completions.with_raw_response.create(
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_legacy_response.py", line 381, in wrapped
+    return cast(LegacyAPIResponse[R], await func(*args, **kwargs))
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/resources/chat/completions/completions.py", line 2678, in create
+    return await self._post(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1794, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1594, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14792. Please try again in 4.437s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 607, in acompletion
+    response = await init_response
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1053, in async_streaming
+    raise OpenAIError(
+litellm.llms.openai.common_utils.OpenAIError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14792. Please try again in 4.437s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/services/retry/exponential_retry.py", line 71, in aretry
+    return await func(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/chat_model.py", line 109, in _base_acompletion
+    return await acompletion(**new_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1643, in wrapper_async
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1489, in wrapper_async
+    result = await original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 626, in acompletion
+    raise exception_type(
+          ^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 2329, in exception_type
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 356, in exception_type
+    raise RateLimitError(
+litellm.exceptions.RateLimitError: litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14792. Please try again in 4.437s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2025-12-13 21:36:25.0596 - ERROR - graphrag.language_model.providers.litellm.services.retry.exponential_retry - ExponentialRetry: Request failed, retrying, retries=1, delay=2.0, max_retries=10, exception=litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14789. Please try again in 4.436s. Visit https://platform.openai.com/account/rate-limits to learn more.
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1003, in async_streaming
+    headers, response = await self.make_openai_chat_completion_request(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/logging_utils.py", line 190, in async_wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 459, in make_openai_chat_completion_request
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 436, in make_openai_chat_completion_request
+    await openai_aclient.chat.completions.with_raw_response.create(
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_legacy_response.py", line 381, in wrapped
+    return cast(LegacyAPIResponse[R], await func(*args, **kwargs))
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/resources/chat/completions/completions.py", line 2678, in create
+    return await self._post(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1794, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1594, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14789. Please try again in 4.436s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 607, in acompletion
+    response = await init_response
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1053, in async_streaming
+    raise OpenAIError(
+litellm.llms.openai.common_utils.OpenAIError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14789. Please try again in 4.436s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/services/retry/exponential_retry.py", line 71, in aretry
+    return await func(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/chat_model.py", line 109, in _base_acompletion
+    return await acompletion(**new_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1643, in wrapper_async
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1489, in wrapper_async
+    result = await original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 626, in acompletion
+    raise exception_type(
+          ^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 2329, in exception_type
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 356, in exception_type
+    raise RateLimitError(
+litellm.exceptions.RateLimitError: litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14789. Please try again in 4.436s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2025-12-13 21:36:25.0621 - ERROR - graphrag.language_model.providers.litellm.services.retry.exponential_retry - ExponentialRetry: Request failed, retrying, retries=1, delay=2.0, max_retries=10, exception=litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14931. Please try again in 4.479s. Visit https://platform.openai.com/account/rate-limits to learn more.
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1003, in async_streaming
+    headers, response = await self.make_openai_chat_completion_request(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/logging_utils.py", line 190, in async_wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 459, in make_openai_chat_completion_request
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 436, in make_openai_chat_completion_request
+    await openai_aclient.chat.completions.with_raw_response.create(
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_legacy_response.py", line 381, in wrapped
+    return cast(LegacyAPIResponse[R], await func(*args, **kwargs))
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/resources/chat/completions/completions.py", line 2678, in create
+    return await self._post(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1794, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1594, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14931. Please try again in 4.479s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 607, in acompletion
+    response = await init_response
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1053, in async_streaming
+    raise OpenAIError(
+litellm.llms.openai.common_utils.OpenAIError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14931. Please try again in 4.479s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/services/retry/exponential_retry.py", line 71, in aretry
+    return await func(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/chat_model.py", line 109, in _base_acompletion
+    return await acompletion(**new_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1643, in wrapper_async
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1489, in wrapper_async
+    result = await original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 626, in acompletion
+    raise exception_type(
+          ^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 2329, in exception_type
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 356, in exception_type
+    raise RateLimitError(
+litellm.exceptions.RateLimitError: litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14931. Please try again in 4.479s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2025-12-13 21:36:25.0806 - ERROR - graphrag.language_model.providers.litellm.services.retry.exponential_retry - ExponentialRetry: Request failed, retrying, retries=1, delay=2.0, max_retries=10, exception=litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 15318. Please try again in 4.595s. Visit https://platform.openai.com/account/rate-limits to learn more.
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1003, in async_streaming
+    headers, response = await self.make_openai_chat_completion_request(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/logging_utils.py", line 190, in async_wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 459, in make_openai_chat_completion_request
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 436, in make_openai_chat_completion_request
+    await openai_aclient.chat.completions.with_raw_response.create(
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_legacy_response.py", line 381, in wrapped
+    return cast(LegacyAPIResponse[R], await func(*args, **kwargs))
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/resources/chat/completions/completions.py", line 2678, in create
+    return await self._post(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1794, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1594, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 15318. Please try again in 4.595s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 607, in acompletion
+    response = await init_response
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1053, in async_streaming
+    raise OpenAIError(
+litellm.llms.openai.common_utils.OpenAIError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 15318. Please try again in 4.595s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/services/retry/exponential_retry.py", line 71, in aretry
+    return await func(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/chat_model.py", line 109, in _base_acompletion
+    return await acompletion(**new_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1643, in wrapper_async
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1489, in wrapper_async
+    result = await original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 626, in acompletion
+    raise exception_type(
+          ^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 2329, in exception_type
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 356, in exception_type
+    raise RateLimitError(
+litellm.exceptions.RateLimitError: litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 15318. Please try again in 4.595s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2025-12-13 21:36:36.0506 - ERROR - graphrag.language_model.providers.litellm.services.retry.exponential_retry - ExponentialRetry: Request failed, retrying, retries=2, delay=4.0, max_retries=10, exception=litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14938. Please try again in 4.481s. Visit https://platform.openai.com/account/rate-limits to learn more.
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1003, in async_streaming
+    headers, response = await self.make_openai_chat_completion_request(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/logging_utils.py", line 190, in async_wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 459, in make_openai_chat_completion_request
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 436, in make_openai_chat_completion_request
+    await openai_aclient.chat.completions.with_raw_response.create(
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_legacy_response.py", line 381, in wrapped
+    return cast(LegacyAPIResponse[R], await func(*args, **kwargs))
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/resources/chat/completions/completions.py", line 2678, in create
+    return await self._post(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1794, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1594, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14938. Please try again in 4.481s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 607, in acompletion
+    response = await init_response
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1053, in async_streaming
+    raise OpenAIError(
+litellm.llms.openai.common_utils.OpenAIError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14938. Please try again in 4.481s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/services/retry/exponential_retry.py", line 71, in aretry
+    return await func(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/chat_model.py", line 109, in _base_acompletion
+    return await acompletion(**new_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1643, in wrapper_async
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1489, in wrapper_async
+    result = await original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 626, in acompletion
+    raise exception_type(
+          ^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 2329, in exception_type
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 356, in exception_type
+    raise RateLimitError(
+litellm.exceptions.RateLimitError: litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14938. Please try again in 4.481s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2025-12-13 21:36:36.0733 - ERROR - graphrag.language_model.providers.litellm.services.retry.exponential_retry - ExponentialRetry: Request failed, retrying, retries=2, delay=4.0, max_retries=10, exception=litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14792. Please try again in 4.437s. Visit https://platform.openai.com/account/rate-limits to learn more.
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1003, in async_streaming
+    headers, response = await self.make_openai_chat_completion_request(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/logging_utils.py", line 190, in async_wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 459, in make_openai_chat_completion_request
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 436, in make_openai_chat_completion_request
+    await openai_aclient.chat.completions.with_raw_response.create(
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_legacy_response.py", line 381, in wrapped
+    return cast(LegacyAPIResponse[R], await func(*args, **kwargs))
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/resources/chat/completions/completions.py", line 2678, in create
+    return await self._post(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1794, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1594, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14792. Please try again in 4.437s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 607, in acompletion
+    response = await init_response
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1053, in async_streaming
+    raise OpenAIError(
+litellm.llms.openai.common_utils.OpenAIError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14792. Please try again in 4.437s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/services/retry/exponential_retry.py", line 71, in aretry
+    return await func(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/chat_model.py", line 109, in _base_acompletion
+    return await acompletion(**new_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1643, in wrapper_async
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1489, in wrapper_async
+    result = await original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 626, in acompletion
+    raise exception_type(
+          ^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 2329, in exception_type
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 356, in exception_type
+    raise RateLimitError(
+litellm.exceptions.RateLimitError: litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14792. Please try again in 4.437s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2025-12-13 21:36:37.0168 - ERROR - graphrag.language_model.providers.litellm.services.retry.exponential_retry - ExponentialRetry: Request failed, retrying, retries=2, delay=4.0, max_retries=10, exception=litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 15069. Please try again in 4.52s. Visit https://platform.openai.com/account/rate-limits to learn more.
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1003, in async_streaming
+    headers, response = await self.make_openai_chat_completion_request(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/logging_utils.py", line 190, in async_wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 459, in make_openai_chat_completion_request
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 436, in make_openai_chat_completion_request
+    await openai_aclient.chat.completions.with_raw_response.create(
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_legacy_response.py", line 381, in wrapped
+    return cast(LegacyAPIResponse[R], await func(*args, **kwargs))
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/resources/chat/completions/completions.py", line 2678, in create
+    return await self._post(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1794, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1594, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 15069. Please try again in 4.52s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 607, in acompletion
+    response = await init_response
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1053, in async_streaming
+    raise OpenAIError(
+litellm.llms.openai.common_utils.OpenAIError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 15069. Please try again in 4.52s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/services/retry/exponential_retry.py", line 71, in aretry
+    return await func(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/chat_model.py", line 109, in _base_acompletion
+    return await acompletion(**new_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1643, in wrapper_async
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1489, in wrapper_async
+    result = await original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 626, in acompletion
+    raise exception_type(
+          ^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 2329, in exception_type
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 356, in exception_type
+    raise RateLimitError(
+litellm.exceptions.RateLimitError: litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 15069. Please try again in 4.52s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2025-12-13 21:36:37.0220 - ERROR - graphrag.language_model.providers.litellm.services.retry.exponential_retry - ExponentialRetry: Request failed, retrying, retries=2, delay=4.0, max_retries=10, exception=litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14931. Please try again in 4.479s. Visit https://platform.openai.com/account/rate-limits to learn more.
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1003, in async_streaming
+    headers, response = await self.make_openai_chat_completion_request(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/logging_utils.py", line 190, in async_wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 459, in make_openai_chat_completion_request
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 436, in make_openai_chat_completion_request
+    await openai_aclient.chat.completions.with_raw_response.create(
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_legacy_response.py", line 381, in wrapped
+    return cast(LegacyAPIResponse[R], await func(*args, **kwargs))
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/resources/chat/completions/completions.py", line 2678, in create
+    return await self._post(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1794, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1594, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14931. Please try again in 4.479s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 607, in acompletion
+    response = await init_response
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1053, in async_streaming
+    raise OpenAIError(
+litellm.llms.openai.common_utils.OpenAIError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14931. Please try again in 4.479s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/services/retry/exponential_retry.py", line 71, in aretry
+    return await func(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/chat_model.py", line 109, in _base_acompletion
+    return await acompletion(**new_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1643, in wrapper_async
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1489, in wrapper_async
+    result = await original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 626, in acompletion
+    raise exception_type(
+          ^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 2329, in exception_type
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 356, in exception_type
+    raise RateLimitError(
+litellm.exceptions.RateLimitError: litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14931. Please try again in 4.479s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2025-12-13 21:36:37.0474 - ERROR - graphrag.language_model.providers.litellm.services.retry.exponential_retry - ExponentialRetry: Request failed, retrying, retries=2, delay=4.0, max_retries=10, exception=litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14789. Please try again in 4.436s. Visit https://platform.openai.com/account/rate-limits to learn more.
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1003, in async_streaming
+    headers, response = await self.make_openai_chat_completion_request(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/logging_utils.py", line 190, in async_wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 459, in make_openai_chat_completion_request
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 436, in make_openai_chat_completion_request
+    await openai_aclient.chat.completions.with_raw_response.create(
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_legacy_response.py", line 381, in wrapped
+    return cast(LegacyAPIResponse[R], await func(*args, **kwargs))
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/resources/chat/completions/completions.py", line 2678, in create
+    return await self._post(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1794, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1594, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14789. Please try again in 4.436s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 607, in acompletion
+    response = await init_response
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1053, in async_streaming
+    raise OpenAIError(
+litellm.llms.openai.common_utils.OpenAIError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14789. Please try again in 4.436s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/services/retry/exponential_retry.py", line 71, in aretry
+    return await func(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/chat_model.py", line 109, in _base_acompletion
+    return await acompletion(**new_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1643, in wrapper_async
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1489, in wrapper_async
+    result = await original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 626, in acompletion
+    raise exception_type(
+          ^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 2329, in exception_type
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 356, in exception_type
+    raise RateLimitError(
+litellm.exceptions.RateLimitError: litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14789. Please try again in 4.436s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2025-12-13 21:36:37.0571 - ERROR - graphrag.language_model.providers.litellm.services.retry.exponential_retry - ExponentialRetry: Request failed, retrying, retries=2, delay=4.0, max_retries=10, exception=litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14901. Please try again in 4.47s. Visit https://platform.openai.com/account/rate-limits to learn more.
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1003, in async_streaming
+    headers, response = await self.make_openai_chat_completion_request(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/logging_utils.py", line 190, in async_wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 459, in make_openai_chat_completion_request
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 436, in make_openai_chat_completion_request
+    await openai_aclient.chat.completions.with_raw_response.create(
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_legacy_response.py", line 381, in wrapped
+    return cast(LegacyAPIResponse[R], await func(*args, **kwargs))
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/resources/chat/completions/completions.py", line 2678, in create
+    return await self._post(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1794, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1594, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14901. Please try again in 4.47s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 607, in acompletion
+    response = await init_response
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1053, in async_streaming
+    raise OpenAIError(
+litellm.llms.openai.common_utils.OpenAIError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14901. Please try again in 4.47s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/services/retry/exponential_retry.py", line 71, in aretry
+    return await func(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/chat_model.py", line 109, in _base_acompletion
+    return await acompletion(**new_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1643, in wrapper_async
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1489, in wrapper_async
+    result = await original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 626, in acompletion
+    raise exception_type(
+          ^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 2329, in exception_type
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 356, in exception_type
+    raise RateLimitError(
+litellm.exceptions.RateLimitError: litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14901. Please try again in 4.47s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2025-12-13 21:36:37.0755 - ERROR - graphrag.language_model.providers.litellm.services.retry.exponential_retry - ExponentialRetry: Request failed, retrying, retries=2, delay=4.0, max_retries=10, exception=litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 15318. Please try again in 4.595s. Visit https://platform.openai.com/account/rate-limits to learn more.
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1003, in async_streaming
+    headers, response = await self.make_openai_chat_completion_request(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/logging_utils.py", line 190, in async_wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 459, in make_openai_chat_completion_request
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 436, in make_openai_chat_completion_request
+    await openai_aclient.chat.completions.with_raw_response.create(
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_legacy_response.py", line 381, in wrapped
+    return cast(LegacyAPIResponse[R], await func(*args, **kwargs))
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/resources/chat/completions/completions.py", line 2678, in create
+    return await self._post(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1794, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1594, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 15318. Please try again in 4.595s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 607, in acompletion
+    response = await init_response
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1053, in async_streaming
+    raise OpenAIError(
+litellm.llms.openai.common_utils.OpenAIError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 15318. Please try again in 4.595s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/services/retry/exponential_retry.py", line 71, in aretry
+    return await func(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/chat_model.py", line 109, in _base_acompletion
+    return await acompletion(**new_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1643, in wrapper_async
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1489, in wrapper_async
+    result = await original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 626, in acompletion
+    raise exception_type(
+          ^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 2329, in exception_type
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 356, in exception_type
+    raise RateLimitError(
+litellm.exceptions.RateLimitError: litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 15318. Please try again in 4.595s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2025-12-13 21:36:49.0970 - ERROR - graphrag.language_model.providers.litellm.services.retry.exponential_retry - ExponentialRetry: Request failed, retrying, retries=3, delay=8.0, max_retries=10, exception=litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14938. Please try again in 4.481s. Visit https://platform.openai.com/account/rate-limits to learn more.
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1003, in async_streaming
+    headers, response = await self.make_openai_chat_completion_request(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/logging_utils.py", line 190, in async_wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 459, in make_openai_chat_completion_request
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 436, in make_openai_chat_completion_request
+    await openai_aclient.chat.completions.with_raw_response.create(
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_legacy_response.py", line 381, in wrapped
+    return cast(LegacyAPIResponse[R], await func(*args, **kwargs))
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/resources/chat/completions/completions.py", line 2678, in create
+    return await self._post(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1794, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1594, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14938. Please try again in 4.481s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 607, in acompletion
+    response = await init_response
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1053, in async_streaming
+    raise OpenAIError(
+litellm.llms.openai.common_utils.OpenAIError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14938. Please try again in 4.481s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/services/retry/exponential_retry.py", line 71, in aretry
+    return await func(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/chat_model.py", line 109, in _base_acompletion
+    return await acompletion(**new_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1643, in wrapper_async
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1489, in wrapper_async
+    result = await original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 626, in acompletion
+    raise exception_type(
+          ^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 2329, in exception_type
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 356, in exception_type
+    raise RateLimitError(
+litellm.exceptions.RateLimitError: litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14938. Please try again in 4.481s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2025-12-13 21:36:50.0469 - ERROR - graphrag.language_model.providers.litellm.services.retry.exponential_retry - ExponentialRetry: Request failed, retrying, retries=3, delay=8.0, max_retries=10, exception=litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14792. Please try again in 4.437s. Visit https://platform.openai.com/account/rate-limits to learn more.
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1003, in async_streaming
+    headers, response = await self.make_openai_chat_completion_request(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/logging_utils.py", line 190, in async_wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 459, in make_openai_chat_completion_request
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 436, in make_openai_chat_completion_request
+    await openai_aclient.chat.completions.with_raw_response.create(
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_legacy_response.py", line 381, in wrapped
+    return cast(LegacyAPIResponse[R], await func(*args, **kwargs))
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/resources/chat/completions/completions.py", line 2678, in create
+    return await self._post(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1794, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1594, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14792. Please try again in 4.437s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 607, in acompletion
+    response = await init_response
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1053, in async_streaming
+    raise OpenAIError(
+litellm.llms.openai.common_utils.OpenAIError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14792. Please try again in 4.437s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/services/retry/exponential_retry.py", line 71, in aretry
+    return await func(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/chat_model.py", line 109, in _base_acompletion
+    return await acompletion(**new_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1643, in wrapper_async
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1489, in wrapper_async
+    result = await original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 626, in acompletion
+    raise exception_type(
+          ^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 2329, in exception_type
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 356, in exception_type
+    raise RateLimitError(
+litellm.exceptions.RateLimitError: litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14792. Please try again in 4.437s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2025-12-13 21:36:51.0155 - ERROR - graphrag.language_model.providers.litellm.services.retry.exponential_retry - ExponentialRetry: Request failed, retrying, retries=3, delay=8.0, max_retries=10, exception=litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14789. Please try again in 4.436s. Visit https://platform.openai.com/account/rate-limits to learn more.
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1003, in async_streaming
+    headers, response = await self.make_openai_chat_completion_request(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/logging_utils.py", line 190, in async_wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 459, in make_openai_chat_completion_request
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 436, in make_openai_chat_completion_request
+    await openai_aclient.chat.completions.with_raw_response.create(
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_legacy_response.py", line 381, in wrapped
+    return cast(LegacyAPIResponse[R], await func(*args, **kwargs))
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/resources/chat/completions/completions.py", line 2678, in create
+    return await self._post(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1794, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1594, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14789. Please try again in 4.436s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 607, in acompletion
+    response = await init_response
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1053, in async_streaming
+    raise OpenAIError(
+litellm.llms.openai.common_utils.OpenAIError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14789. Please try again in 4.436s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/services/retry/exponential_retry.py", line 71, in aretry
+    return await func(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/chat_model.py", line 109, in _base_acompletion
+    return await acompletion(**new_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1643, in wrapper_async
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1489, in wrapper_async
+    result = await original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 626, in acompletion
+    raise exception_type(
+          ^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 2329, in exception_type
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 356, in exception_type
+    raise RateLimitError(
+litellm.exceptions.RateLimitError: litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14789. Please try again in 4.436s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2025-12-13 21:36:51.0197 - ERROR - graphrag.language_model.providers.litellm.services.retry.exponential_retry - ExponentialRetry: Request failed, retrying, retries=3, delay=8.0, max_retries=10, exception=litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14931. Please try again in 4.479s. Visit https://platform.openai.com/account/rate-limits to learn more.
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1003, in async_streaming
+    headers, response = await self.make_openai_chat_completion_request(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/logging_utils.py", line 190, in async_wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 459, in make_openai_chat_completion_request
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 436, in make_openai_chat_completion_request
+    await openai_aclient.chat.completions.with_raw_response.create(
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_legacy_response.py", line 381, in wrapped
+    return cast(LegacyAPIResponse[R], await func(*args, **kwargs))
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/resources/chat/completions/completions.py", line 2678, in create
+    return await self._post(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1794, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1594, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14931. Please try again in 4.479s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 607, in acompletion
+    response = await init_response
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1053, in async_streaming
+    raise OpenAIError(
+litellm.llms.openai.common_utils.OpenAIError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14931. Please try again in 4.479s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/services/retry/exponential_retry.py", line 71, in aretry
+    return await func(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/chat_model.py", line 109, in _base_acompletion
+    return await acompletion(**new_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1643, in wrapper_async
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1489, in wrapper_async
+    result = await original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 626, in acompletion
+    raise exception_type(
+          ^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 2329, in exception_type
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 356, in exception_type
+    raise RateLimitError(
+litellm.exceptions.RateLimitError: litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14931. Please try again in 4.479s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2025-12-13 21:36:51.0232 - ERROR - graphrag.language_model.providers.litellm.services.retry.exponential_retry - ExponentialRetry: Request failed, retrying, retries=3, delay=8.0, max_retries=10, exception=litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14901. Please try again in 4.47s. Visit https://platform.openai.com/account/rate-limits to learn more.
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1003, in async_streaming
+    headers, response = await self.make_openai_chat_completion_request(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/logging_utils.py", line 190, in async_wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 459, in make_openai_chat_completion_request
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 436, in make_openai_chat_completion_request
+    await openai_aclient.chat.completions.with_raw_response.create(
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_legacy_response.py", line 381, in wrapped
+    return cast(LegacyAPIResponse[R], await func(*args, **kwargs))
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/resources/chat/completions/completions.py", line 2678, in create
+    return await self._post(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1794, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1594, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14901. Please try again in 4.47s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 607, in acompletion
+    response = await init_response
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1053, in async_streaming
+    raise OpenAIError(
+litellm.llms.openai.common_utils.OpenAIError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14901. Please try again in 4.47s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/services/retry/exponential_retry.py", line 71, in aretry
+    return await func(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/chat_model.py", line 109, in _base_acompletion
+    return await acompletion(**new_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1643, in wrapper_async
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1489, in wrapper_async
+    result = await original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 626, in acompletion
+    raise exception_type(
+          ^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 2329, in exception_type
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 356, in exception_type
+    raise RateLimitError(
+litellm.exceptions.RateLimitError: litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 14901. Please try again in 4.47s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2025-12-13 21:36:51.0311 - ERROR - graphrag.language_model.providers.litellm.services.retry.exponential_retry - ExponentialRetry: Request failed, retrying, retries=3, delay=8.0, max_retries=10, exception=litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 15069. Please try again in 4.52s. Visit https://platform.openai.com/account/rate-limits to learn more.
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1003, in async_streaming
+    headers, response = await self.make_openai_chat_completion_request(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/logging_utils.py", line 190, in async_wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 459, in make_openai_chat_completion_request
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 436, in make_openai_chat_completion_request
+    await openai_aclient.chat.completions.with_raw_response.create(
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_legacy_response.py", line 381, in wrapped
+    return cast(LegacyAPIResponse[R], await func(*args, **kwargs))
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/resources/chat/completions/completions.py", line 2678, in create
+    return await self._post(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1794, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1594, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 15069. Please try again in 4.52s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 607, in acompletion
+    response = await init_response
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1053, in async_streaming
+    raise OpenAIError(
+litellm.llms.openai.common_utils.OpenAIError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 15069. Please try again in 4.52s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/services/retry/exponential_retry.py", line 71, in aretry
+    return await func(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/chat_model.py", line 109, in _base_acompletion
+    return await acompletion(**new_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1643, in wrapper_async
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1489, in wrapper_async
+    result = await original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 626, in acompletion
+    raise exception_type(
+          ^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 2329, in exception_type
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 356, in exception_type
+    raise RateLimitError(
+litellm.exceptions.RateLimitError: litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 15069. Please try again in 4.52s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2025-12-13 21:36:52.0060 - ERROR - graphrag.language_model.providers.litellm.services.retry.exponential_retry - ExponentialRetry: Request failed, retrying, retries=3, delay=8.0, max_retries=10, exception=litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 15318. Please try again in 4.595s. Visit https://platform.openai.com/account/rate-limits to learn more.
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1003, in async_streaming
+    headers, response = await self.make_openai_chat_completion_request(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/logging_utils.py", line 190, in async_wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 459, in make_openai_chat_completion_request
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 436, in make_openai_chat_completion_request
+    await openai_aclient.chat.completions.with_raw_response.create(
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_legacy_response.py", line 381, in wrapped
+    return cast(LegacyAPIResponse[R], await func(*args, **kwargs))
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/resources/chat/completions/completions.py", line 2678, in create
+    return await self._post(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1794, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1594, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 15318. Please try again in 4.595s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 607, in acompletion
+    response = await init_response
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1053, in async_streaming
+    raise OpenAIError(
+litellm.llms.openai.common_utils.OpenAIError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 15318. Please try again in 4.595s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/services/retry/exponential_retry.py", line 71, in aretry
+    return await func(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/chat_model.py", line 109, in _base_acompletion
+    return await acompletion(**new_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1643, in wrapper_async
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1489, in wrapper_async
+    result = await original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 626, in acompletion
+    raise exception_type(
+          ^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 2329, in exception_type
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 356, in exception_type
+    raise RateLimitError(
+litellm.exceptions.RateLimitError: litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 200000, Requested 15318. Please try again in 4.595s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2025-12-13 21:37:08.0727 - ERROR - graphrag.language_model.providers.litellm.services.retry.exponential_retry - ExponentialRetry: Request failed, retrying, retries=4, delay=16.0, max_retries=10, exception=litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 195377, Requested 14789. Please try again in 3.049s. Visit https://platform.openai.com/account/rate-limits to learn more.
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1003, in async_streaming
+    headers, response = await self.make_openai_chat_completion_request(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/logging_utils.py", line 190, in async_wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 459, in make_openai_chat_completion_request
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 436, in make_openai_chat_completion_request
+    await openai_aclient.chat.completions.with_raw_response.create(
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_legacy_response.py", line 381, in wrapped
+    return cast(LegacyAPIResponse[R], await func(*args, **kwargs))
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/resources/chat/completions/completions.py", line 2678, in create
+    return await self._post(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1794, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1594, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 195377, Requested 14789. Please try again in 3.049s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 607, in acompletion
+    response = await init_response
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1053, in async_streaming
+    raise OpenAIError(
+litellm.llms.openai.common_utils.OpenAIError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 195377, Requested 14789. Please try again in 3.049s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/services/retry/exponential_retry.py", line 71, in aretry
+    return await func(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/chat_model.py", line 109, in _base_acompletion
+    return await acompletion(**new_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1643, in wrapper_async
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1489, in wrapper_async
+    result = await original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 626, in acompletion
+    raise exception_type(
+          ^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 2329, in exception_type
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 356, in exception_type
+    raise RateLimitError(
+litellm.exceptions.RateLimitError: litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 195377, Requested 14789. Please try again in 3.049s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2025-12-13 21:37:08.0811 - ERROR - graphrag.language_model.providers.litellm.services.retry.exponential_retry - ExponentialRetry: Request failed, retrying, retries=4, delay=16.0, max_retries=10, exception=litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 195467, Requested 14931. Please try again in 3.119s. Visit https://platform.openai.com/account/rate-limits to learn more.
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1003, in async_streaming
+    headers, response = await self.make_openai_chat_completion_request(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/logging_utils.py", line 190, in async_wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 459, in make_openai_chat_completion_request
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 436, in make_openai_chat_completion_request
+    await openai_aclient.chat.completions.with_raw_response.create(
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_legacy_response.py", line 381, in wrapped
+    return cast(LegacyAPIResponse[R], await func(*args, **kwargs))
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/resources/chat/completions/completions.py", line 2678, in create
+    return await self._post(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1794, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1594, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 195467, Requested 14931. Please try again in 3.119s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 607, in acompletion
+    response = await init_response
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1053, in async_streaming
+    raise OpenAIError(
+litellm.llms.openai.common_utils.OpenAIError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 195467, Requested 14931. Please try again in 3.119s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/services/retry/exponential_retry.py", line 71, in aretry
+    return await func(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/chat_model.py", line 109, in _base_acompletion
+    return await acompletion(**new_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1643, in wrapper_async
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1489, in wrapper_async
+    result = await original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 626, in acompletion
+    raise exception_type(
+          ^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 2329, in exception_type
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 356, in exception_type
+    raise RateLimitError(
+litellm.exceptions.RateLimitError: litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 195467, Requested 14931. Please try again in 3.119s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2025-12-13 21:37:09.0108 - ERROR - graphrag.language_model.providers.litellm.services.retry.exponential_retry - ExponentialRetry: Request failed, retrying, retries=4, delay=16.0, max_retries=10, exception=litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 194195, Requested 15069. Please try again in 2.779s. Visit https://platform.openai.com/account/rate-limits to learn more.
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1003, in async_streaming
+    headers, response = await self.make_openai_chat_completion_request(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/logging_utils.py", line 190, in async_wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 459, in make_openai_chat_completion_request
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 436, in make_openai_chat_completion_request
+    await openai_aclient.chat.completions.with_raw_response.create(
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_legacy_response.py", line 381, in wrapped
+    return cast(LegacyAPIResponse[R], await func(*args, **kwargs))
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/resources/chat/completions/completions.py", line 2678, in create
+    return await self._post(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1794, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1594, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 194195, Requested 15069. Please try again in 2.779s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 607, in acompletion
+    response = await init_response
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1053, in async_streaming
+    raise OpenAIError(
+litellm.llms.openai.common_utils.OpenAIError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 194195, Requested 15069. Please try again in 2.779s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/services/retry/exponential_retry.py", line 71, in aretry
+    return await func(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/chat_model.py", line 109, in _base_acompletion
+    return await acompletion(**new_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1643, in wrapper_async
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1489, in wrapper_async
+    result = await original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 626, in acompletion
+    raise exception_type(
+          ^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 2329, in exception_type
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 356, in exception_type
+    raise RateLimitError(
+litellm.exceptions.RateLimitError: litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 194195, Requested 15069. Please try again in 2.779s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2025-12-13 21:37:09.0631 - ERROR - graphrag.language_model.providers.litellm.services.retry.exponential_retry - ExponentialRetry: Request failed, retrying, retries=4, delay=16.0, max_retries=10, exception=litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 192496, Requested 15318. Please try again in 2.344s. Visit https://platform.openai.com/account/rate-limits to learn more.
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1003, in async_streaming
+    headers, response = await self.make_openai_chat_completion_request(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/logging_utils.py", line 190, in async_wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 459, in make_openai_chat_completion_request
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 436, in make_openai_chat_completion_request
+    await openai_aclient.chat.completions.with_raw_response.create(
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_legacy_response.py", line 381, in wrapped
+    return cast(LegacyAPIResponse[R], await func(*args, **kwargs))
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/resources/chat/completions/completions.py", line 2678, in create
+    return await self._post(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1794, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1594, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 192496, Requested 15318. Please try again in 2.344s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 607, in acompletion
+    response = await init_response
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1053, in async_streaming
+    raise OpenAIError(
+litellm.llms.openai.common_utils.OpenAIError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 192496, Requested 15318. Please try again in 2.344s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/services/retry/exponential_retry.py", line 71, in aretry
+    return await func(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/chat_model.py", line 109, in _base_acompletion
+    return await acompletion(**new_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1643, in wrapper_async
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1489, in wrapper_async
+    result = await original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 626, in acompletion
+    raise exception_type(
+          ^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 2329, in exception_type
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 356, in exception_type
+    raise RateLimitError(
+litellm.exceptions.RateLimitError: litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 192496, Requested 15318. Please try again in 2.344s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2025-12-13 21:37:37.0614 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:37:37.0793 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:37:38.0056 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:37:38.0245 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:37:38.0535 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:37:38.0676 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:37:38.0840 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:37:39.0086 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:37:39.0262 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:37:39.0564 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:37:39.0833 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:37:40.0146 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:37:40.0349 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:37:40.0471 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:37:40.0685 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:37:40.0836 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:37:40.0944 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:37:41.0167 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:37:41.0294 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:37:41.0531 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-12-13 21:38:35.0712 - ERROR - graphrag.language_model.providers.litellm.services.retry.exponential_retry - ExponentialRetry: Request failed, retrying, retries=1, delay=2.0, max_retries=10, exception=litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 182577, Requested 48220. Please try again in 9.239s. Visit https://platform.openai.com/account/rate-limits to learn more.
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1003, in async_streaming
+    headers, response = await self.make_openai_chat_completion_request(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/logging_utils.py", line 190, in async_wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 459, in make_openai_chat_completion_request
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 436, in make_openai_chat_completion_request
+    await openai_aclient.chat.completions.with_raw_response.create(
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_legacy_response.py", line 381, in wrapped
+    return cast(LegacyAPIResponse[R], await func(*args, **kwargs))
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/resources/chat/completions/completions.py", line 2678, in create
+    return await self._post(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1794, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/openai/_base_client.py", line 1594, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 182577, Requested 48220. Please try again in 9.239s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 607, in acompletion
+    response = await init_response
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1053, in async_streaming
+    raise OpenAIError(
+litellm.llms.openai.common_utils.OpenAIError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 182577, Requested 48220. Please try again in 9.239s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/services/retry/exponential_retry.py", line 71, in aretry
+    return await func(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/graphrag/language_model/providers/litellm/chat_model.py", line 109, in _base_acompletion
+    return await acompletion(**new_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1643, in wrapper_async
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/utils.py", line 1489, in wrapper_async
+    result = await original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/main.py", line 626, in acompletion
+    raise exception_type(
+          ^^^^^^^^^^^^^^^
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 2329, in exception_type
+    raise e
+  File "/home/ts75080/miniconda3/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 356, in exception_type
+    raise RateLimitError(
+litellm.exceptions.RateLimitError: litellm.RateLimitError: RateLimitError: OpenAIException - Rate limit reached for gpt-4o-mini in organization org-ipoGnW03qA6ITC4qMYfpLYkH on tokens per min (TPM): Limit 200000, Used 182577, Requested 48220. Please try again in 9.239s. Visit https://platform.openai.com/account/rate-limits to learn more.
